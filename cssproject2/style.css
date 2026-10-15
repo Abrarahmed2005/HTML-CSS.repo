@@ -1,0 +1,48 @@
+.tittle{
+    color: red;
+}
+
+.subtittle{
+    color: blue;
+}
+
+#contact-us{
+    color: green;
+}
+h2:hover{
+    color: aquamarine;
+}
+li:only-child{
+    color: blueviolet;
+}
+
+td:only-child{
+    color: blueviolet;
+}
+
+#google-link:link{
+    color: blue;
+}
+#google-link:visited{
+    color: red;
+}
+
+h2 + a{
+    color: red;
+}
+
+textarea + button{
+    color: purple;
+}
+
+ul > li{
+    color: blue;
+}
+img{
+    border: 10px solid;
+}
+
+#article{
+    background-color: green;
+}
+
